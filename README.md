@@ -1,3 +1,16 @@
+This is a project that I find it useful because it makes passing data to a google sheet using API POST method. 
+
+Technology used: 
+
+- React 
+- Semantic UI
+- Axios
+- Google Sheets
+- Sheet.best API
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
